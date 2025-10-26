@@ -21,7 +21,7 @@
 </template>
 
 <script setup>
-import TicketIcon from '@/assets/icons/Ticket.svg'
+import TicketIcon from '@/assets/icons/ticket.svg'
 import ChartIcon from '@/assets/icons/chart.svg'
 import CheckIcon from '@/assets/icons/check.svg'
 import ZapIcon from '@/assets/icons/zap.svg'

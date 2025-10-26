@@ -1,0 +1,17 @@
+
+<template>
+    
+  <router-view />
+      
+</template>
+
+<style scoped>
+  #root {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+</style>
+
+

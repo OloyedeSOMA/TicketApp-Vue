@@ -13,9 +13,7 @@ Live Demo: https://ticket-app-vue-two.vercel.app/
 - Mobile-first design
 
 ---
-## Login Credentials 
-  email: test@gmail.com
-  password: abc123
+
 
 ## Tech Stack
 

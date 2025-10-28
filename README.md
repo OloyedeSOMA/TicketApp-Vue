@@ -1,5 +1,41 @@
-# Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# Ticket Manager Pro — Vue version
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+A reactive **Ticket Management System** built with **Vue 3, Vue Router, LocalStorage and Tailwind CSS**.
+
+Live Demo: https://ticket-app-vue-two.vercel.app/
+
+---
+
+## Features
+
+- Create, edit, delete tickets
+- Mobile-first design
+
+---
+
+## Tech Stack
+
+| Tech | Purpose |
+|------|--------|
+| **Vue 3** | Framework |
+| **LocalStorage** | Storage |
+| **Vue Router** | Routing |
+| **Tailwind CSS** | Styling |
+| **Vite** | Build |
+| **Vercel** | Hosting |
+
+---
+## 1. Clone & Enter
+```bash
+git clone https://github.com/OloyedeSOMA/TicketApp-Vue
+cd TicketApp-Vuw
+
+## 2. Install
+```bash
+npm install
+```
+## 3. Run
+```bash
+npm run dev
+```
